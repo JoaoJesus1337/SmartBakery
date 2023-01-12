@@ -1,0 +1,51 @@
+body{
+	margin: 0px 0px 0px 25px;
+	font-family: Roboto, sans-serif;
+	background-color: #1f2833;
+	 
+}
+
+h1 {
+	color: #000000;
+	font-size: 30px;
+	color: #66fcf1;
+}
+
+.titulo h1 {
+	color: #000000;
+	text-align: left;
+	font-size: 30px;
+	color: #66fcf1;
+}
+
+ul, li, a{  
+	list-style:none; 
+	text-decoration:none;
+	color: #c5c6c7;
+}
+
+a:hover {  
+	color: #255483;
+}
+
+h3{
+	color: #45a29e
+}
+
+.btn button{
+	height: 40px;
+    width: 20%;
+    border: none;
+    outline: none;
+    background: #c5c6c7;
+    font-size: 1.0625rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.btn button a{
+	text-decoration:none;
+	color: #0b0c10;
+}
+

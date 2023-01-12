@@ -1,0 +1,54 @@
+body{
+	margin: 0px 0px 0px 25px;
+	font-family: Roboto, sans-serif;
+	background-color: #1f2833;
+	 
+}
+
+h1 {
+	font-size: 30px;
+	color: #66fcf1;
+}
+
+h3{
+	color: #000000;
+	text-align: left;
+	font-size: 20px;
+	color: #45a29e;
+}
+a {
+	font-size: 20px;
+	color: #66fcf1;
+}
+
+h4{
+	color: green;
+	font-size: 15px;
+}
+
+h5{
+	color: red;
+	font-size: 15px;
+}
+
+h6{
+	color: #ffffff;
+	font-size: 15px;
+}
+
+.btn button{
+	height: 40px;
+    width: 20%;
+    border: none;
+    outline: none;
+    background: #c5c6c7;
+    font-size: 1.0625rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.btn button a{
+	text-decoration:none;
+	color: #0b0c10;
+}
