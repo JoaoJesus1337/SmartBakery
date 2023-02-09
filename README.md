@@ -41,3 +41,11 @@
 
 <br>
 <img src="ReadMeImgs/3.jpg" alt="drawing" width="500"/>
+
+<br>
+
+# CO-Author
+
+<br>
+
+[@DiogoLopes](https://github.com/drvlopes)
